@@ -26,5 +26,7 @@ def get_password(pass_len=6):
 
 user_1 = User('Alex')
 user_2 = User('Marya')
+user_3 = User('Katy')
 print(user_1)
 print(user_2)
+print(user_3)
